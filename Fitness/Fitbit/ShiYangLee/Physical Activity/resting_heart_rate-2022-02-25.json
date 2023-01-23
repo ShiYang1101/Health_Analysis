@@ -1,0 +1,2556 @@
+[{
+  "dateTime" : "02/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/27/22 00:00:00",
+  "value" : {
+    "date" : "02/27/22",
+    "value" : 58.87418270111084,
+    "error" : 100.0
+  }
+},{
+  "dateTime" : "02/28/22 00:00:00",
+  "value" : {
+    "date" : "02/28/22",
+    "value" : 57.05742263793945,
+    "error" : 13.884297370910645
+  }
+},{
+  "dateTime" : "03/01/22 00:00:00",
+  "value" : {
+    "date" : "03/01/22",
+    "value" : 56.75333595275879,
+    "error" : 8.661454200744629
+  }
+},{
+  "dateTime" : "03/02/22 00:00:00",
+  "value" : {
+    "date" : "03/02/22",
+    "value" : 59.161805152893066,
+    "error" : 7.369269371032715
+  }
+},{
+  "dateTime" : "03/03/22 00:00:00",
+  "value" : {
+    "date" : "03/03/22",
+    "value" : 59.632328033447266,
+    "error" : 6.9761505126953125
+  }
+},{
+  "dateTime" : "03/04/22 00:00:00",
+  "value" : {
+    "date" : "03/04/22",
+    "value" : 59.634992599487305,
+    "error" : 6.849348068237305
+  }
+},{
+  "dateTime" : "03/05/22 00:00:00",
+  "value" : {
+    "date" : "03/05/22",
+    "value" : 60.91807460784912,
+    "error" : 6.807683944702148
+  }
+},{
+  "dateTime" : "03/06/22 00:00:00",
+  "value" : {
+    "date" : "03/06/22",
+    "value" : 60.63055992126465,
+    "error" : 6.793910980224609
+  }
+},{
+  "dateTime" : "03/07/22 00:00:00",
+  "value" : {
+    "date" : "03/07/22",
+    "value" : 60.465240478515625,
+    "error" : 6.789348602294922
+  }
+},{
+  "dateTime" : "03/08/22 00:00:00",
+  "value" : {
+    "date" : "03/08/22",
+    "value" : 60.37009334564209,
+    "error" : 6.787837028503418
+  }
+},{
+  "dateTime" : "03/09/22 00:00:00",
+  "value" : {
+    "date" : "03/09/22",
+    "value" : 61.337504386901855,
+    "error" : 6.787335395812988
+  }
+},{
+  "dateTime" : "03/10/22 00:00:00",
+  "value" : {
+    "date" : "03/10/22",
+    "value" : 60.77013683319092,
+    "error" : 6.787169456481934
+  }
+},{
+  "dateTime" : "03/11/22 00:00:00",
+  "value" : {
+    "date" : "03/11/22",
+    "value" : 61.05674171447754,
+    "error" : 6.787114143371582
+  }
+},{
+  "dateTime" : "03/12/22 00:00:00",
+  "value" : {
+    "date" : "03/12/22",
+    "value" : 61.7328462600708,
+    "error" : 6.78709602355957
+  }
+},{
+  "dateTime" : "03/13/22 00:00:00",
+  "value" : {
+    "date" : "03/13/22",
+    "value" : 62.63322734832764,
+    "error" : 6.787090301513672
+  }
+},{
+  "dateTime" : "03/14/22 00:00:00",
+  "value" : {
+    "date" : "03/14/22",
+    "value" : 63.151673316955566,
+    "error" : 6.787088394165039
+  }
+},{
+  "dateTime" : "03/15/22 00:00:00",
+  "value" : {
+    "date" : "03/15/22",
+    "value" : 62.93912220001221,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/16/22 00:00:00",
+  "value" : {
+    "date" : "03/16/22",
+    "value" : 62.81673336029053,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/17/22 00:00:00",
+  "value" : {
+    "date" : "03/17/22",
+    "value" : 62.74626159667969,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/18/22 00:00:00",
+  "value" : {
+    "date" : "03/18/22",
+    "value" : 60.66137981414795,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/19/22 00:00:00",
+  "value" : {
+    "date" : "03/19/22",
+    "value" : 59.97196578979492,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/20/22 00:00:00",
+  "value" : {
+    "date" : "03/20/22",
+    "value" : 60.08607196807861,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/21/22 00:00:00",
+  "value" : {
+    "date" : "03/21/22",
+    "value" : 59.12962341308594,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/22/22 00:00:00",
+  "value" : {
+    "date" : "03/22/22",
+    "value" : 59.60104560852051,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/23/22 00:00:00",
+  "value" : {
+    "date" : "03/23/22",
+    "value" : 60.89464569091797,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/24/22 00:00:00",
+  "value" : {
+    "date" : "03/24/22",
+    "value" : 61.12843418121338,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/25/22 00:00:00",
+  "value" : {
+    "date" : "03/25/22",
+    "value" : 59.72982311248779,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/26/22 00:00:00",
+  "value" : {
+    "date" : "03/26/22",
+    "value" : 59.94664478302002,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/27/22 00:00:00",
+  "value" : {
+    "date" : "03/27/22",
+    "value" : 59.04934024810791,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/28/22 00:00:00",
+  "value" : {
+    "date" : "03/28/22",
+    "value" : 58.53266620635986,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/29/22 00:00:00",
+  "value" : {
+    "date" : "03/29/22",
+    "value" : 58.235161781311035,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/30/22 00:00:00",
+  "value" : {
+    "date" : "03/30/22",
+    "value" : 59.597084045410156,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "03/31/22 00:00:00",
+  "value" : {
+    "date" : "03/31/22",
+    "value" : 60.892364501953125,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/01/22 00:00:00",
+  "value" : {
+    "date" : "04/01/22",
+    "value" : 62.149271965026855,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/02/22 00:00:00",
+  "value" : {
+    "date" : "04/02/22",
+    "value" : 61.33978080749512,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/03/22 00:00:00",
+  "value" : {
+    "date" : "04/03/22",
+    "value" : 60.36259365081787,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/04/22 00:00:00",
+  "value" : {
+    "date" : "04/04/22",
+    "value" : 62.86637783050537,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/05/22 00:00:00",
+  "value" : {
+    "date" : "04/05/22",
+    "value" : 62.77484703063965,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/06/22 00:00:00",
+  "value" : {
+    "date" : "04/06/22",
+    "value" : 61.18891525268555,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/07/22 00:00:00",
+  "value" : {
+    "date" : "04/07/22",
+    "value" : 62.32002830505371,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/08/22 00:00:00",
+  "value" : {
+    "date" : "04/08/22",
+    "value" : 63.99348258972168,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/09/22 00:00:00",
+  "value" : {
+    "date" : "04/09/22",
+    "value" : 63.93491744995117,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/10/22 00:00:00",
+  "value" : {
+    "date" : "04/10/22",
+    "value" : 65.94549942016602,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/11/22 00:00:00",
+  "value" : {
+    "date" : "04/11/22",
+    "value" : 64.54782676696777,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/12/22 00:00:00",
+  "value" : {
+    "date" : "04/12/22",
+    "value" : 64.7651891708374,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/13/22 00:00:00",
+  "value" : {
+    "date" : "04/13/22",
+    "value" : 65.91249942779541,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/14/22 00:00:00",
+  "value" : {
+    "date" : "04/14/22",
+    "value" : 66.0620527267456,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/15/22 00:00:00",
+  "value" : {
+    "date" : "04/15/22",
+    "value" : 64.10386276245117,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/16/22 00:00:00",
+  "value" : {
+    "date" : "04/16/22",
+    "value" : 62.465248107910156,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/17/22 00:00:00",
+  "value" : {
+    "date" : "04/17/22",
+    "value" : 64.0771017074585,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/18/22 00:00:00",
+  "value" : {
+    "date" : "04/18/22",
+    "value" : 62.449838638305664,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/19/22 00:00:00",
+  "value" : {
+    "date" : "04/19/22",
+    "value" : 61.51284885406494,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "04/20/22 00:00:00",
+  "value" : {
+    "date" : "04/20/22",
+    "value" : 63.47243404388428,
+    "error" : 8.561969757080078
+  }
+},{
+  "dateTime" : "04/21/22 00:00:00",
+  "value" : {
+    "date" : "04/21/22",
+    "value" : 62.54267883300781,
+    "error" : 7.3402252197265625
+  }
+},{
+  "dateTime" : "04/22/22 00:00:00",
+  "value" : {
+    "date" : "04/22/22",
+    "value" : 62.06505584716797,
+    "error" : 6.966902732849121
+  }
+},{
+  "dateTime" : "04/23/22 00:00:00",
+  "value" : {
+    "date" : "04/23/22",
+    "value" : 61.28453540802002,
+    "error" : 6.846322059631348
+  }
+},{
+  "dateTime" : "04/24/22 00:00:00",
+  "value" : {
+    "date" : "04/24/22",
+    "value" : 63.71848487854004,
+    "error" : 7.184762001037598
+  }
+},{
+  "dateTime" : "04/25/22 00:00:00",
+  "value" : {
+    "date" : "04/25/22",
+    "value" : 62.7359561920166,
+    "error" : 6.91707706451416
+  }
+},{
+  "dateTime" : "04/26/22 00:00:00",
+  "value" : {
+    "date" : "04/26/22",
+    "value" : 62.699520111083984,
+    "error" : 6.829984664916992
+  }
+},{
+  "dateTime" : "04/27/22 00:00:00",
+  "value" : {
+    "date" : "04/27/22",
+    "value" : 62.678725242614746,
+    "error" : 6.801287651062012
+  }
+},{
+  "dateTime" : "04/28/22 00:00:00",
+  "value" : {
+    "date" : "04/28/22",
+    "value" : 61.13249588012695,
+    "error" : 6.791792869567871
+  }
+},{
+  "dateTime" : "04/29/22 00:00:00",
+  "value" : {
+    "date" : "04/29/22",
+    "value" : 61.26541996002197,
+    "error" : 6.788646697998047
+  }
+},{
+  "dateTime" : "04/30/22 00:00:00",
+  "value" : {
+    "date" : "04/30/22",
+    "value" : 61.34193420410156,
+    "error" : 6.787604331970215
+  }
+},{
+  "dateTime" : "05/01/22 00:00:00",
+  "value" : {
+    "date" : "05/01/22",
+    "value" : 59.85272026062012,
+    "error" : 6.787258148193359
+  }
+},{
+  "dateTime" : "05/02/22 00:00:00",
+  "value" : {
+    "date" : "05/02/22",
+    "value" : 60.52849197387695,
+    "error" : 6.787143707275391
+  }
+},{
+  "dateTime" : "05/03/22 00:00:00",
+  "value" : {
+    "date" : "05/03/22",
+    "value" : 61.14361095428467,
+    "error" : 11.021636962890625
+  }
+},{
+  "dateTime" : "05/04/22 00:00:00",
+  "value" : {
+    "date" : "05/04/22",
+    "value" : 61.294798851013184,
+    "error" : 8.00540542602539
+  }
+},{
+  "dateTime" : "05/05/22 00:00:00",
+  "value" : {
+    "date" : "05/05/22",
+    "value" : 60.82228088378906,
+    "error" : 7.174057960510254
+  }
+},{
+  "dateTime" : "05/06/22 00:00:00",
+  "value" : {
+    "date" : "05/06/22",
+    "value" : 61.09169673919678,
+    "error" : 6.913626670837402
+  }
+},{
+  "dateTime" : "05/07/22 00:00:00",
+  "value" : {
+    "date" : "05/07/22",
+    "value" : 61.24282169342041,
+    "error" : 6.828851699829102
+  }
+},{
+  "dateTime" : "05/08/22 00:00:00",
+  "value" : {
+    "date" : "05/08/22",
+    "value" : 61.87531566619873,
+    "error" : 11.099442481994629
+  }
+},{
+  "dateTime" : "05/09/22 00:00:00",
+  "value" : {
+    "date" : "05/09/22",
+    "value" : 62.264159202575684,
+    "error" : 8.02478313446045
+  }
+},{
+  "dateTime" : "05/10/22 00:00:00",
+  "value" : {
+    "date" : "05/10/22",
+    "value" : 63.110042572021484,
+    "error" : 12.145906448364258
+  }
+},{
+  "dateTime" : "05/11/22 00:00:00",
+  "value" : {
+    "date" : "05/11/22",
+    "value" : 62.249144554138184,
+    "error" : 8.276572227478027
+  }
+},{
+  "dateTime" : "05/12/22 00:00:00",
+  "value" : {
+    "date" : "05/12/22",
+    "value" : 62.43120002746582,
+    "error" : 7.255806922912598
+  }
+},{
+  "dateTime" : "05/13/22 00:00:00",
+  "value" : {
+    "date" : "05/13/22",
+    "value" : 63.04894828796387,
+    "error" : 6.939914703369141
+  }
+},{
+  "dateTime" : "05/14/22 00:00:00",
+  "value" : {
+    "date" : "05/14/22",
+    "value" : 61.848976135253906,
+    "error" : 6.837480545043945
+  }
+},{
+  "dateTime" : "05/15/22 00:00:00",
+  "value" : {
+    "date" : "05/15/22",
+    "value" : 61.165191650390625,
+    "error" : 6.803765296936035
+  }
+},{
+  "dateTime" : "05/16/22 00:00:00",
+  "value" : {
+    "date" : "05/16/22",
+    "value" : 61.79580497741699,
+    "error" : 6.7926130294799805
+  }
+},{
+  "dateTime" : "05/17/22 00:00:00",
+  "value" : {
+    "date" : "05/17/22",
+    "value" : 61.647287368774414,
+    "error" : 6.788918495178223
+  }
+},{
+  "dateTime" : "05/18/22 00:00:00",
+  "value" : {
+    "date" : "05/18/22",
+    "value" : 60.53955936431885,
+    "error" : 6.787693977355957
+  }
+},{
+  "dateTime" : "05/19/22 00:00:00",
+  "value" : {
+    "date" : "05/19/22",
+    "value" : 61.946166038513184,
+    "error" : 6.787288665771484
+  }
+},{
+  "dateTime" : "05/20/22 00:00:00",
+  "value" : {
+    "date" : "05/20/22",
+    "value" : 61.73390483856201,
+    "error" : 6.787154197692871
+  }
+},{
+  "dateTime" : "05/21/22 00:00:00",
+  "value" : {
+    "date" : "05/21/22",
+    "value" : 61.611684799194336,
+    "error" : 6.787109375
+  }
+},{
+  "dateTime" : "05/22/22 00:00:00",
+  "value" : {
+    "date" : "05/22/22",
+    "value" : 63.07453918457031,
+    "error" : 6.7870941162109375
+  }
+},{
+  "dateTime" : "05/23/22 00:00:00",
+  "value" : {
+    "date" : "05/23/22",
+    "value" : 62.894707679748535,
+    "error" : 6.7870893478393555
+  }
+},{
+  "dateTime" : "05/24/22 00:00:00",
+  "value" : {
+    "date" : "05/24/22",
+    "value" : 60.74685573577881,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "05/25/22 00:00:00",
+  "value" : {
+    "date" : "05/25/22",
+    "value" : 59.51010799407959,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "05/26/22 00:00:00",
+  "value" : {
+    "date" : "05/26/22",
+    "value" : 60.331207275390625,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "05/27/22 00:00:00",
+  "value" : {
+    "date" : "05/27/22",
+    "value" : 59.78184986114502,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "05/28/22 00:00:00",
+  "value" : {
+    "date" : "05/28/22",
+    "value" : 60.48767852783203,
+    "error" : 6.787087440490723
+  }
+},{
+  "dateTime" : "05/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "05/30/22 00:00:00",
+  "value" : {
+    "date" : "05/30/22",
+    "value" : 61.251261711120605,
+    "error" : 11.93895149230957
+  }
+},{
+  "dateTime" : "05/31/22 00:00:00",
+  "value" : {
+    "date" : "05/31/22",
+    "value" : 62.590457916259766,
+    "error" : 8.228046417236328
+  }
+},{
+  "dateTime" : "06/01/22 00:00:00",
+  "value" : {
+    "date" : "06/01/22",
+    "value" : 62.07240009307861,
+    "error" : 7.241289138793945
+  }
+},{
+  "dateTime" : "06/02/22 00:00:00",
+  "value" : {
+    "date" : "06/02/22",
+    "value" : 62.84525680541992,
+    "error" : 6.935257911682129
+  }
+},{
+  "dateTime" : "06/03/22 00:00:00",
+  "value" : {
+    "date" : "06/03/22",
+    "value" : 62.7620906829834,
+    "error" : 6.8359527587890625
+  }
+},{
+  "dateTime" : "06/04/22 00:00:00",
+  "value" : {
+    "date" : "06/04/22",
+    "value" : 62.202391624450684,
+    "error" : 6.80325984954834
+  }
+},{
+  "dateTime" : "06/05/22 00:00:00",
+  "value" : {
+    "date" : "06/05/22",
+    "value" : 62.783751487731934,
+    "error" : 10.793794631958008
+  }
+},{
+  "dateTime" : "06/06/22 00:00:00",
+  "value" : {
+    "date" : "06/06/22",
+    "value" : 63.316110610961914,
+    "error" : 7.948113441467285
+  }
+},{
+  "dateTime" : "06/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "06/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "07/31/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "08/31/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "09/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "10/31/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "11/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/01/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/02/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/03/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/04/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/05/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/06/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/07/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/08/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/09/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/10/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/11/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/12/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/13/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/14/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/15/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/16/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/17/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/18/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/19/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/20/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/21/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/22/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/23/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/24/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/25/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/26/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/27/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/28/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/29/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/30/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "12/31/22 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/01/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/02/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/03/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/04/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/05/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/06/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/07/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/08/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/09/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/10/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/11/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/12/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/13/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/14/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/15/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/16/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/17/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/18/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/19/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/20/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/21/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/22/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/23/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/24/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/25/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/26/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/27/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/28/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/29/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/30/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "01/31/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/01/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/02/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/03/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/04/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/05/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/06/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/07/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/08/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/09/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/10/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/11/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/12/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/13/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/14/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/15/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/16/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/17/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/18/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/19/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/20/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/21/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/22/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/23/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+},{
+  "dateTime" : "02/24/23 00:00:00",
+  "value" : {
+    "date" : null,
+    "value" : 0.0,
+    "error" : 0.0
+  }
+}]
